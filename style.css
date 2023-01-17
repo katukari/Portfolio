@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.sample_h_4{
+font-size: 1.5em;
+font-weight: bold;
+padding-top: 1em;
+padding-bottom: 1em;
+margin-bottom: 2em;
+border-top: 3px solid #3f9613;
+border-bottom: 3px solid #409614;
+color: #409614;
+text-align: center;
+}
+.sample_h_3{
+font-size: 1.5em;
+font-weight: bold;  
+padding-top: .5em;
+padding-bottom: .5em;
+margin-bottom: 2em;
+border-bottom: dashed 2px #238264;
+color: #238264;
+}
+.sample {
+  width: "15px";
+  height: "15px";
+}
